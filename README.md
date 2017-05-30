@@ -1,2 +1,2 @@
 # node-blog
-Simple blog done with NodeJs, Express and MongoDB
+Simple blog created with NodeJs, Express and MongoDB
